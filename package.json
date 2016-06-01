@@ -1,0 +1,22 @@
+{
+  "name": "extract-epfl-data",
+  "version": "0.0.5",
+  "description": "Script to convert xlsx tables to JSON row array",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node_modules/.bin/mocha -w"
+  },
+  "author": "Nicolas Borboën",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^4.13.1",
+    "spahql": "^0.7.6",
+    "xlsx": "^0.8.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
