@@ -1,0 +1,3586 @@
+[
+  {
+    "Year": "1982",
+    "label1": "/1982",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1982/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1982/Autres/undef",
+            "data": {
+              "Année": "1982",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1982/CTI",
+        "Amount": [
+          {
+            "amount": "1479.00",
+            "label3": "/1982/CTI/1479.00",
+            "data": {
+              "Année": "1982",
+              "Source": " CTI",
+              " Montant ": " 1,479.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1982/FNS",
+        "Amount": [
+          {
+            "amount": "6988.00",
+            "label3": "/1982/FNS/6988.00",
+            "data": {
+              "Année": "1982",
+              "Source": " FNS",
+              " Montant ": " 6,988.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1982/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1982/Mandats/undef",
+            "data": {
+              "Année": "1982",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1982/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1982/Prog. Europ./undef",
+            "data": {
+              "Année": "1982",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1982/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1982/Sect. Public./undef",
+            "data": {
+              "Année": "1982",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1982/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "167142.00",
+            "label3": "/1982/Budget Conf./167142.00",
+            "data": {
+              "Année": "1982",
+              "Source": "Budget Conf.",
+              " Montant ": " 167,142.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1983",
+    "label1": "/1983",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1983/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1983/Autres/undef",
+            "data": {
+              "Année": "1983",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1983/CTI",
+        "Amount": [
+          {
+            "amount": "2374.00",
+            "label3": "/1983/CTI/2374.00",
+            "data": {
+              "Année": "1983",
+              "Source": " CTI",
+              " Montant ": " 2,374.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1983/FNS",
+        "Amount": [
+          {
+            "amount": "7169.00",
+            "label3": "/1983/FNS/7169.00",
+            "data": {
+              "Année": "1983",
+              "Source": " FNS",
+              " Montant ": " 7,169.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1983/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1983/Mandats/undef",
+            "data": {
+              "Année": "1983",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1983/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1983/Prog. Europ./undef",
+            "data": {
+              "Année": "1983",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1983/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1983/Sect. Public./undef",
+            "data": {
+              "Année": "1983",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1983/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "170176.00",
+            "label3": "/1983/Budget Conf./170176.00",
+            "data": {
+              "Année": "1983",
+              "Source": "Budget Conf.",
+              " Montant ": " 170,176.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1984",
+    "label1": "/1984",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1984/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1984/Autres/undef",
+            "data": {
+              "Année": "1984",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1984/CTI",
+        "Amount": [
+          {
+            "amount": "2679.00",
+            "label3": "/1984/CTI/2679.00",
+            "data": {
+              "Année": "1984",
+              "Source": " CTI",
+              " Montant ": " 2,679.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1984/FNS",
+        "Amount": [
+          {
+            "amount": "8149.00",
+            "label3": "/1984/FNS/8149.00",
+            "data": {
+              "Année": "1984",
+              "Source": " FNS",
+              " Montant ": " 8,149.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1984/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1984/Mandats/undef",
+            "data": {
+              "Année": "1984",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1984/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1984/Prog. Europ./undef",
+            "data": {
+              "Année": "1984",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1984/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1984/Sect. Public./undef",
+            "data": {
+              "Année": "1984",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1984/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "191299.00",
+            "label3": "/1984/Budget Conf./191299.00",
+            "data": {
+              "Année": "1984",
+              "Source": "Budget Conf.",
+              " Montant ": " 191,299.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1985",
+    "label1": "/1985",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1985/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1985/Autres/undef",
+            "data": {
+              "Année": "1985",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1985/CTI",
+        "Amount": [
+          {
+            "amount": "3143.00",
+            "label3": "/1985/CTI/3143.00",
+            "data": {
+              "Année": "1985",
+              "Source": " CTI",
+              " Montant ": " 3,143.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1985/FNS",
+        "Amount": [
+          {
+            "amount": "8679.00",
+            "label3": "/1985/FNS/8679.00",
+            "data": {
+              "Année": "1985",
+              "Source": " FNS",
+              " Montant ": " 8,679.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1985/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1985/Mandats/undef",
+            "data": {
+              "Année": "1985",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1985/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1985/Prog. Europ./undef",
+            "data": {
+              "Année": "1985",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1985/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1985/Sect. Public./undef",
+            "data": {
+              "Année": "1985",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1985/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "234124.00",
+            "label3": "/1985/Budget Conf./234124.00",
+            "data": {
+              "Année": "1985",
+              "Source": "Budget Conf.",
+              " Montant ": " 234,124.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1986",
+    "label1": "/1986",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1986/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1986/Autres/undef",
+            "data": {
+              "Année": "1986",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1986/CTI",
+        "Amount": [
+          {
+            "amount": "3862.00",
+            "label3": "/1986/CTI/3862.00",
+            "data": {
+              "Année": "1986",
+              "Source": " CTI",
+              " Montant ": " 3,862.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1986/FNS",
+        "Amount": [
+          {
+            "amount": "9651.00",
+            "label3": "/1986/FNS/9651.00",
+            "data": {
+              "Année": "1986",
+              "Source": " FNS",
+              " Montant ": " 9,651.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1986/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1986/Mandats/undef",
+            "data": {
+              "Année": "1986",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1986/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1986/Prog. Europ./undef",
+            "data": {
+              "Année": "1986",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1986/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1986/Sect. Public./undef",
+            "data": {
+              "Année": "1986",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1986/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "248395.00",
+            "label3": "/1986/Budget Conf./248395.00",
+            "data": {
+              "Année": "1986",
+              "Source": "Budget Conf.",
+              " Montant ": " 248,395.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1987",
+    "label1": "/1987",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1987/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1987/Autres/undef",
+            "data": {
+              "Année": "1987",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1987/CTI",
+        "Amount": [
+          {
+            "amount": "4219.00",
+            "label3": "/1987/CTI/4219.00",
+            "data": {
+              "Année": "1987",
+              "Source": " CTI",
+              " Montant ": " 4,219.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1987/FNS",
+        "Amount": [
+          {
+            "amount": "11213.00",
+            "label3": "/1987/FNS/11213.00",
+            "data": {
+              "Année": "1987",
+              "Source": " FNS",
+              " Montant ": " 11,213.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1987/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1987/Mandats/undef",
+            "data": {
+              "Année": "1987",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1987/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1987/Prog. Europ./undef",
+            "data": {
+              "Année": "1987",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1987/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1987/Sect. Public./undef",
+            "data": {
+              "Année": "1987",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1987/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "276931.00",
+            "label3": "/1987/Budget Conf./276931.00",
+            "data": {
+              "Année": "1987",
+              "Source": "Budget Conf.",
+              " Montant ": " 276,931.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1988",
+    "label1": "/1988",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1988/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1988/Autres/undef",
+            "data": {
+              "Année": "1988",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1988/CTI",
+        "Amount": [
+          {
+            "amount": "5234.00",
+            "label3": "/1988/CTI/5234.00",
+            "data": {
+              "Année": "1988",
+              "Source": " CTI",
+              " Montant ": " 5,234.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1988/FNS",
+        "Amount": [
+          {
+            "amount": "13147.00",
+            "label3": "/1988/FNS/13147.00",
+            "data": {
+              "Année": "1988",
+              "Source": " FNS",
+              " Montant ": " 13,147.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1988/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1988/Mandats/undef",
+            "data": {
+              "Année": "1988",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1988/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1988/Prog. Europ./undef",
+            "data": {
+              "Année": "1988",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1988/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1988/Sect. Public./undef",
+            "data": {
+              "Année": "1988",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1988/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "312360.00",
+            "label3": "/1988/Budget Conf./312360.00",
+            "data": {
+              "Année": "1988",
+              "Source": "Budget Conf.",
+              " Montant ": " 312,360.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1989",
+    "label1": "/1989",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1989/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1989/Autres/undef",
+            "data": {
+              "Année": "1989",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1989/CTI",
+        "Amount": [
+          {
+            "amount": "7452.00",
+            "label3": "/1989/CTI/7452.00",
+            "data": {
+              "Année": "1989",
+              "Source": " CTI",
+              " Montant ": " 7,452.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1989/FNS",
+        "Amount": [
+          {
+            "amount": "15526.00",
+            "label3": "/1989/FNS/15526.00",
+            "data": {
+              "Année": "1989",
+              "Source": " FNS",
+              " Montant ": " 15,526.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1989/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1989/Mandats/undef",
+            "data": {
+              "Année": "1989",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1989/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1989/Prog. Europ./undef",
+            "data": {
+              "Année": "1989",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1989/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1989/Sect. Public./undef",
+            "data": {
+              "Année": "1989",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1989/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "305851.00",
+            "label3": "/1989/Budget Conf./305851.00",
+            "data": {
+              "Année": "1989",
+              "Source": "Budget Conf.",
+              " Montant ": " 305,851.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1990",
+    "label1": "/1990",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1990/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1990/Autres/undef",
+            "data": {
+              "Année": "1990",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1990/CTI",
+        "Amount": [
+          {
+            "amount": "10711.00",
+            "label3": "/1990/CTI/10711.00",
+            "data": {
+              "Année": "1990",
+              "Source": " CTI",
+              " Montant ": " 10,711.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1990/FNS",
+        "Amount": [
+          {
+            "amount": "17274.00",
+            "label3": "/1990/FNS/17274.00",
+            "data": {
+              "Année": "1990",
+              "Source": " FNS",
+              " Montant ": " 17,274.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1990/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1990/Mandats/undef",
+            "data": {
+              "Année": "1990",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1990/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1990/Prog. Europ./undef",
+            "data": {
+              "Année": "1990",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1990/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1990/Sect. Public./undef",
+            "data": {
+              "Année": "1990",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1990/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "330347.00",
+            "label3": "/1990/Budget Conf./330347.00",
+            "data": {
+              "Année": "1990",
+              "Source": "Budget Conf.",
+              " Montant ": " 330,347.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1991",
+    "label1": "/1991",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1991/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1991/Autres/undef",
+            "data": {
+              "Année": "1991",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1991/CTI",
+        "Amount": [
+          {
+            "amount": "12018.40",
+            "label3": "/1991/CTI/12018.40",
+            "data": {
+              "Année": "1991",
+              "Source": " CTI",
+              " Montant ": " 12,018.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1991/FNS",
+        "Amount": [
+          {
+            "amount": "18090.00",
+            "label3": "/1991/FNS/18090.00",
+            "data": {
+              "Année": "1991",
+              "Source": " FNS",
+              " Montant ": " 18,090.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1991/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1991/Mandats/undef",
+            "data": {
+              "Année": "1991",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1991/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1991/Prog. Europ./undef",
+            "data": {
+              "Année": "1991",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1991/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1991/Sect. Public./undef",
+            "data": {
+              "Année": "1991",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1991/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "331640.00",
+            "label3": "/1991/Budget Conf./331640.00",
+            "data": {
+              "Année": "1991",
+              "Source": "Budget Conf.",
+              " Montant ": " 331,640.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1992",
+    "label1": "/1992",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1992/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1992/Autres/undef",
+            "data": {
+              "Année": "1992",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1992/CTI",
+        "Amount": [
+          {
+            "amount": "13299.00",
+            "label3": "/1992/CTI/13299.00",
+            "data": {
+              "Année": "1992",
+              "Source": " CTI",
+              " Montant ": " 13,299.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1992/FNS",
+        "Amount": [
+          {
+            "amount": "19773.60",
+            "label3": "/1992/FNS/19773.60",
+            "data": {
+              "Année": "1992",
+              "Source": " FNS",
+              " Montant ": " 19,773.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1992/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1992/Mandats/undef",
+            "data": {
+              "Année": "1992",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1992/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1992/Prog. Europ./undef",
+            "data": {
+              "Année": "1992",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1992/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1992/Sect. Public./undef",
+            "data": {
+              "Année": "1992",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1992/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "337893.00",
+            "label3": "/1992/Budget Conf./337893.00",
+            "data": {
+              "Année": "1992",
+              "Source": "Budget Conf.",
+              " Montant ": " 337,893.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1993",
+    "label1": "/1993",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1993/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1993/Autres/undef",
+            "data": {
+              "Année": "1993",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1993/CTI",
+        "Amount": [
+          {
+            "amount": "11808.00",
+            "label3": "/1993/CTI/11808.00",
+            "data": {
+              "Année": "1993",
+              "Source": " CTI",
+              " Montant ": " 11,808.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1993/FNS",
+        "Amount": [
+          {
+            "amount": "20018.60",
+            "label3": "/1993/FNS/20018.60",
+            "data": {
+              "Année": "1993",
+              "Source": " FNS",
+              " Montant ": " 20,018.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1993/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1993/Mandats/undef",
+            "data": {
+              "Année": "1993",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1993/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1993/Prog. Europ./undef",
+            "data": {
+              "Année": "1993",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1993/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1993/Sect. Public./undef",
+            "data": {
+              "Année": "1993",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1993/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "349156.00",
+            "label3": "/1993/Budget Conf./349156.00",
+            "data": {
+              "Année": "1993",
+              "Source": "Budget Conf.",
+              " Montant ": " 349,156.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1994",
+    "label1": "/1994",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1994/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1994/Autres/undef",
+            "data": {
+              "Année": "1994",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1994/CTI",
+        "Amount": [
+          {
+            "amount": "10701.60",
+            "label3": "/1994/CTI/10701.60",
+            "data": {
+              "Année": "1994",
+              "Source": " CTI",
+              " Montant ": " 10,701.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1994/FNS",
+        "Amount": [
+          {
+            "amount": "21751.40",
+            "label3": "/1994/FNS/21751.40",
+            "data": {
+              "Année": "1994",
+              "Source": " FNS",
+              " Montant ": " 21,751.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1994/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1994/Mandats/undef",
+            "data": {
+              "Année": "1994",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1994/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1994/Prog. Europ./undef",
+            "data": {
+              "Année": "1994",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1994/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1994/Sect. Public./undef",
+            "data": {
+              "Année": "1994",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1994/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "369288.00",
+            "label3": "/1994/Budget Conf./369288.00",
+            "data": {
+              "Année": "1994",
+              "Source": "Budget Conf.",
+              " Montant ": " 369,288.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1995",
+    "label1": "/1995",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1995/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1995/Autres/undef",
+            "data": {
+              "Année": "1995",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1995/CTI",
+        "Amount": [
+          {
+            "amount": "9492.60",
+            "label3": "/1995/CTI/9492.60",
+            "data": {
+              "Année": "1995",
+              "Source": " CTI",
+              " Montant ": " 9,492.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1995/FNS",
+        "Amount": [
+          {
+            "amount": "18482.00",
+            "label3": "/1995/FNS/18482.00",
+            "data": {
+              "Année": "1995",
+              "Source": " FNS",
+              " Montant ": " 18,482.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1995/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1995/Mandats/undef",
+            "data": {
+              "Année": "1995",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1995/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1995/Prog. Europ./undef",
+            "data": {
+              "Année": "1995",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1995/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1995/Sect. Public./undef",
+            "data": {
+              "Année": "1995",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1995/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "354157.00",
+            "label3": "/1995/Budget Conf./354157.00",
+            "data": {
+              "Année": "1995",
+              "Source": "Budget Conf.",
+              " Montant ": " 354,157.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1996",
+    "label1": "/1996",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1996/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1996/Autres/undef",
+            "data": {
+              "Année": "1996",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1996/CTI",
+        "Amount": [
+          {
+            "amount": "9987.00",
+            "label3": "/1996/CTI/9987.00",
+            "data": {
+              "Année": "1996",
+              "Source": " CTI",
+              " Montant ": " 9,987.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1996/FNS",
+        "Amount": [
+          {
+            "amount": "17645.60",
+            "label3": "/1996/FNS/17645.60",
+            "data": {
+              "Année": "1996",
+              "Source": " FNS",
+              " Montant ": " 17,645.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1996/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1996/Mandats/undef",
+            "data": {
+              "Année": "1996",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1996/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1996/Prog. Europ./undef",
+            "data": {
+              "Année": "1996",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1996/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1996/Sect. Public./undef",
+            "data": {
+              "Année": "1996",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1996/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "354309.60",
+            "label3": "/1996/Budget Conf./354309.60",
+            "data": {
+              "Année": "1996",
+              "Source": "Budget Conf.",
+              " Montant ": " 354,309.6 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1997",
+    "label1": "/1997",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1997/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1997/Autres/undef",
+            "data": {
+              "Année": "1997",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1997/CTI",
+        "Amount": [
+          {
+            "amount": "9772.00",
+            "label3": "/1997/CTI/9772.00",
+            "data": {
+              "Année": "1997",
+              "Source": " CTI",
+              " Montant ": " 9,772.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1997/FNS",
+        "Amount": [
+          {
+            "amount": "21355.40",
+            "label3": "/1997/FNS/21355.40",
+            "data": {
+              "Année": "1997",
+              "Source": " FNS",
+              " Montant ": " 21,355.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1997/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1997/Mandats/undef",
+            "data": {
+              "Année": "1997",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1997/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1997/Prog. Europ./undef",
+            "data": {
+              "Année": "1997",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1997/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1997/Sect. Public./undef",
+            "data": {
+              "Année": "1997",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1997/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "360787.00",
+            "label3": "/1997/Budget Conf./360787.00",
+            "data": {
+              "Année": "1997",
+              "Source": "Budget Conf.",
+              " Montant ": " 360,787.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1998",
+    "label1": "/1998",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1998/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1998/Autres/undef",
+            "data": {
+              "Année": "1998",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1998/CTI",
+        "Amount": [
+          {
+            "amount": "11441.00",
+            "label3": "/1998/CTI/11441.00",
+            "data": {
+              "Année": "1998",
+              "Source": " CTI",
+              " Montant ": " 11,441.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1998/FNS",
+        "Amount": [
+          {
+            "amount": "22554.60",
+            "label3": "/1998/FNS/22554.60",
+            "data": {
+              "Année": "1998",
+              "Source": " FNS",
+              " Montant ": " 22,554.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1998/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1998/Mandats/undef",
+            "data": {
+              "Année": "1998",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1998/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1998/Prog. Europ./undef",
+            "data": {
+              "Année": "1998",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1998/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1998/Sect. Public./undef",
+            "data": {
+              "Année": "1998",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1998/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "378509.00",
+            "label3": "/1998/Budget Conf./378509.00",
+            "data": {
+              "Année": "1998",
+              "Source": "Budget Conf.",
+              " Montant ": " 378,509.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "1999",
+    "label1": "/1999",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/1999/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1999/Autres/undef",
+            "data": {
+              "Année": "1999",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/1999/CTI",
+        "Amount": [
+          {
+            "amount": "14337.00",
+            "label3": "/1999/CTI/14337.00",
+            "data": {
+              "Année": "1999",
+              "Source": " CTI",
+              " Montant ": " 14,337.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/1999/FNS",
+        "Amount": [
+          {
+            "amount": "23499.00",
+            "label3": "/1999/FNS/23499.00",
+            "data": {
+              "Année": "1999",
+              "Source": " FNS",
+              " Montant ": " 23,499.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/1999/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1999/Mandats/undef",
+            "data": {
+              "Année": "1999",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/1999/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1999/Prog. Europ./undef",
+            "data": {
+              "Année": "1999",
+              "Source": " Prog. Europ."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/1999/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/1999/Sect. Public./undef",
+            "data": {
+              "Année": "1999",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/1999/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "381216.00",
+            "label3": "/1999/Budget Conf./381216.00",
+            "data": {
+              "Année": "1999",
+              "Source": "Budget Conf.",
+              " Montant ": " 381,216.0 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2000",
+    "label1": "/2000",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2000/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2000/Autres/undef",
+            "data": {
+              "Année": "2000",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2000/CTI",
+        "Amount": [
+          {
+            "amount": "16942.40",
+            "label3": "/2000/CTI/16942.40",
+            "data": {
+              "Année": "2000",
+              "Source": " CTI",
+              " Montant ": " 16,942.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2000/FNS",
+        "Amount": [
+          {
+            "amount": "21365.60",
+            "label3": "/2000/FNS/21365.60",
+            "data": {
+              "Année": "2000",
+              "Source": " FNS",
+              " Montant ": " 21,365.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2000/Mandats",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2000/Mandats/undef",
+            "data": {
+              "Année": "2000",
+              "Source": " Mandats"
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2000/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "22339.40",
+            "label3": "/2000/Prog. Europ./22339.40",
+            "data": {
+              "Année": "2000",
+              "Source": " Prog. Europ.",
+              " Montant ": " 22,339.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2000/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2000/Sect. Public./undef",
+            "data": {
+              "Année": "2000",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2000/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "391707.90",
+            "label3": "/2000/Budget Conf./391707.90",
+            "data": {
+              "Année": "2000",
+              "Source": "Budget Conf.",
+              " Montant ": " 391,707.9 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2001",
+    "label1": "/2001",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2001/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2001/Autres/undef",
+            "data": {
+              "Année": "2001",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2001/CTI",
+        "Amount": [
+          {
+            "amount": "18491.10",
+            "label3": "/2001/CTI/18491.10",
+            "data": {
+              "Année": "2001",
+              "Source": " CTI",
+              " Montant ": " 18,491.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2001/FNS",
+        "Amount": [
+          {
+            "amount": "22250.10",
+            "label3": "/2001/FNS/22250.10",
+            "data": {
+              "Année": "2001",
+              "Source": " FNS",
+              " Montant ": " 22,250.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2001/Mandats",
+        "Amount": [
+          {
+            "amount": "27360.10",
+            "label3": "/2001/Mandats/27360.10",
+            "data": {
+              "Année": "2001",
+              "Source": " Mandats",
+              " Montant ": " 27,360.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2001/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "22593.40",
+            "label3": "/2001/Prog. Europ./22593.40",
+            "data": {
+              "Année": "2001",
+              "Source": " Prog. Europ.",
+              " Montant ": " 22,593.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2001/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2001/Sect. Public./undef",
+            "data": {
+              "Année": "2001",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2001/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "400503.30",
+            "label3": "/2001/Budget Conf./400503.30",
+            "data": {
+              "Année": "2001",
+              "Source": "Budget Conf.",
+              " Montant ": " 400,503.3 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2002",
+    "label1": "/2002",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2002/Autres",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2002/Autres/undef",
+            "data": {
+              "Année": "2002",
+              "Source": " Autres"
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2002/CTI",
+        "Amount": [
+          {
+            "amount": "21009.30",
+            "label3": "/2002/CTI/21009.30",
+            "data": {
+              "Année": "2002",
+              "Source": " CTI",
+              " Montant ": " 21,009.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2002/FNS",
+        "Amount": [
+          {
+            "amount": "26020.80",
+            "label3": "/2002/FNS/26020.80",
+            "data": {
+              "Année": "2002",
+              "Source": " FNS",
+              " Montant ": " 26,020.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2002/Mandats",
+        "Amount": [
+          {
+            "amount": "21425.70",
+            "label3": "/2002/Mandats/21425.70",
+            "data": {
+              "Année": "2002",
+              "Source": " Mandats",
+              " Montant ": " 21,425.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2002/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "27575.30",
+            "label3": "/2002/Prog. Europ./27575.30",
+            "data": {
+              "Année": "2002",
+              "Source": " Prog. Europ.",
+              " Montant ": " 27,575.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2002/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "undef",
+            "label3": "/2002/Sect. Public./undef",
+            "data": {
+              "Année": "2002",
+              "Source": " Sect. Public."
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2002/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "410959.40",
+            "label3": "/2002/Budget Conf./410959.40",
+            "data": {
+              "Année": "2002",
+              "Source": "Budget Conf.",
+              " Montant ": " 410,959.4 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2003",
+    "label1": "/2003",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2003/Autres",
+        "Amount": [
+          {
+            "amount": "11221.50",
+            "label3": "/2003/Autres/11221.50",
+            "data": {
+              "Année": "2003",
+              "Source": " Autres",
+              " Montant ": " 11,221.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2003/CTI",
+        "Amount": [
+          {
+            "amount": "21124.60",
+            "label3": "/2003/CTI/21124.60",
+            "data": {
+              "Année": "2003",
+              "Source": " CTI",
+              " Montant ": " 21,124.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2003/FNS",
+        "Amount": [
+          {
+            "amount": "39905.50",
+            "label3": "/2003/FNS/39905.50",
+            "data": {
+              "Année": "2003",
+              "Source": " FNS",
+              " Montant ": " 39,905.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2003/Mandats",
+        "Amount": [
+          {
+            "amount": "26828.10",
+            "label3": "/2003/Mandats/26828.10",
+            "data": {
+              "Année": "2003",
+              "Source": " Mandats",
+              " Montant ": " 26,828.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2003/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "28581.30",
+            "label3": "/2003/Prog. Europ./28581.30",
+            "data": {
+              "Année": "2003",
+              "Source": " Prog. Europ.",
+              " Montant ": " 28,581.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2003/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "13348.90",
+            "label3": "/2003/Sect. Public./13348.90",
+            "data": {
+              "Année": "2003",
+              "Source": " Sect. Public.",
+              " Montant ": " 13,348.9 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2003/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "406561.10",
+            "label3": "/2003/Budget Conf./406561.10",
+            "data": {
+              "Année": "2003",
+              "Source": "Budget Conf.",
+              " Montant ": " 406,561.1 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2004",
+    "label1": "/2004",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2004/Autres",
+        "Amount": [
+          {
+            "amount": "11628.10",
+            "label3": "/2004/Autres/11628.10",
+            "data": {
+              "Année": "2004",
+              "Source": " Autres",
+              " Montant ": " 11,628.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2004/CTI",
+        "Amount": [
+          {
+            "amount": "20509.60",
+            "label3": "/2004/CTI/20509.60",
+            "data": {
+              "Année": "2004",
+              "Source": " CTI",
+              " Montant ": " 20,509.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2004/FNS",
+        "Amount": [
+          {
+            "amount": "40006.00",
+            "label3": "/2004/FNS/40006.00",
+            "data": {
+              "Année": "2004",
+              "Source": " FNS",
+              " Montant ": " 40,006.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2004/Mandats",
+        "Amount": [
+          {
+            "amount": "20301.50",
+            "label3": "/2004/Mandats/20301.50",
+            "data": {
+              "Année": "2004",
+              "Source": " Mandats",
+              " Montant ": " 20,301.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2004/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "28359.20",
+            "label3": "/2004/Prog. Europ./28359.20",
+            "data": {
+              "Année": "2004",
+              "Source": " Prog. Europ.",
+              " Montant ": " 28,359.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2004/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "11071.80",
+            "label3": "/2004/Sect. Public./11071.80",
+            "data": {
+              "Année": "2004",
+              "Source": " Sect. Public.",
+              " Montant ": " 11,071.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2004/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "424317.80",
+            "label3": "/2004/Budget Conf./424317.80",
+            "data": {
+              "Année": "2004",
+              "Source": "Budget Conf.",
+              " Montant ": " 424,317.8 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2005",
+    "label1": "/2005",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2005/Autres",
+        "Amount": [
+          {
+            "amount": "14784.60",
+            "label3": "/2005/Autres/14784.60",
+            "data": {
+              "Année": "2005",
+              "Source": " Autres",
+              " Montant ": " 14,784.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2005/CTI",
+        "Amount": [
+          {
+            "amount": "17449.00",
+            "label3": "/2005/CTI/17449.00",
+            "data": {
+              "Année": "2005",
+              "Source": " CTI",
+              " Montant ": " 17,449.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2005/FNS",
+        "Amount": [
+          {
+            "amount": "41022.30",
+            "label3": "/2005/FNS/41022.30",
+            "data": {
+              "Année": "2005",
+              "Source": " FNS",
+              " Montant ": " 41,022.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2005/Mandats",
+        "Amount": [
+          {
+            "amount": "22273.70",
+            "label3": "/2005/Mandats/22273.70",
+            "data": {
+              "Année": "2005",
+              "Source": " Mandats",
+              " Montant ": " 22,273.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2005/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "31957.60",
+            "label3": "/2005/Prog. Europ./31957.60",
+            "data": {
+              "Année": "2005",
+              "Source": " Prog. Europ.",
+              " Montant ": " 31,957.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2005/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "11965.40",
+            "label3": "/2005/Sect. Public./11965.40",
+            "data": {
+              "Année": "2005",
+              "Source": " Sect. Public.",
+              " Montant ": " 11,965.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2005/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "455378.10",
+            "label3": "/2005/Budget Conf./455378.10",
+            "data": {
+              "Année": "2005",
+              "Source": "Budget Conf.",
+              " Montant ": " 455,378.1 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2006",
+    "label1": "/2006",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2006/Autres",
+        "Amount": [
+          {
+            "amount": "15254.90",
+            "label3": "/2006/Autres/15254.90",
+            "data": {
+              "Année": "2006",
+              "Source": " Autres",
+              " Montant ": " 15,254.9 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2006/CTI",
+        "Amount": [
+          {
+            "amount": "14589.70",
+            "label3": "/2006/CTI/14589.70",
+            "data": {
+              "Année": "2006",
+              "Source": " CTI",
+              " Montant ": " 14,589.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2006/FNS",
+        "Amount": [
+          {
+            "amount": "39986.90",
+            "label3": "/2006/FNS/39986.90",
+            "data": {
+              "Année": "2006",
+              "Source": " FNS",
+              " Montant ": " 39,986.9 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2006/Mandats",
+        "Amount": [
+          {
+            "amount": "19076.80",
+            "label3": "/2006/Mandats/19076.80",
+            "data": {
+              "Année": "2006",
+              "Source": " Mandats",
+              " Montant ": " 19,076.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2006/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "38984.50",
+            "label3": "/2006/Prog. Europ./38984.50",
+            "data": {
+              "Année": "2006",
+              "Source": " Prog. Europ.",
+              " Montant ": " 38,984.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2006/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "8890.40",
+            "label3": "/2006/Sect. Public./8890.40",
+            "data": {
+              "Année": "2006",
+              "Source": " Sect. Public.",
+              " Montant ": " 8,890.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2006/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "474948.40",
+            "label3": "/2006/Budget Conf./474948.40",
+            "data": {
+              "Année": "2006",
+              "Source": "Budget Conf.",
+              " Montant ": " 474,948.4 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2007",
+    "label1": "/2007",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2007/Autres",
+        "Amount": [
+          {
+            "amount": "36885.50",
+            "label3": "/2007/Autres/36885.50",
+            "data": {
+              "Année": "2007",
+              "Source": " Autres",
+              " Montant ": " 36,885.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2007/CTI",
+        "Amount": [
+          {
+            "amount": "11101.70",
+            "label3": "/2007/CTI/11101.70",
+            "data": {
+              "Année": "2007",
+              "Source": " CTI",
+              " Montant ": " 11,101.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2007/FNS",
+        "Amount": [
+          {
+            "amount": "37701.10",
+            "label3": "/2007/FNS/37701.10",
+            "data": {
+              "Année": "2007",
+              "Source": " FNS",
+              " Montant ": " 37,701.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2007/Mandats",
+        "Amount": [
+          {
+            "amount": "22258.40",
+            "label3": "/2007/Mandats/22258.40",
+            "data": {
+              "Année": "2007",
+              "Source": " Mandats",
+              " Montant ": " 22,258.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2007/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "40765.70",
+            "label3": "/2007/Prog. Europ./40765.70",
+            "data": {
+              "Année": "2007",
+              "Source": " Prog. Europ.",
+              " Montant ": " 40,765.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2007/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "8021.20",
+            "label3": "/2007/Sect. Public./8021.20",
+            "data": {
+              "Année": "2007",
+              "Source": " Sect. Public.",
+              " Montant ": " 8,021.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2007/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "480215.10",
+            "label3": "/2007/Budget Conf./480215.10",
+            "data": {
+              "Année": "2007",
+              "Source": "Budget Conf.",
+              " Montant ": " 480,215.1 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2008",
+    "label1": "/2008",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2008/Autres",
+        "Amount": [
+          {
+            "amount": "60353.30",
+            "label3": "/2008/Autres/60353.30",
+            "data": {
+              "Année": "2008",
+              "Source": " Autres",
+              " Montant ": " 60,353.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2008/CTI",
+        "Amount": [
+          {
+            "amount": "12118.50",
+            "label3": "/2008/CTI/12118.50",
+            "data": {
+              "Année": "2008",
+              "Source": " CTI",
+              " Montant ": " 12,118.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2008/FNS",
+        "Amount": [
+          {
+            "amount": "46221.20",
+            "label3": "/2008/FNS/46221.20",
+            "data": {
+              "Année": "2008",
+              "Source": " FNS",
+              " Montant ": " 46,221.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2008/Mandats",
+        "Amount": [
+          {
+            "amount": "26339.60",
+            "label3": "/2008/Mandats/26339.60",
+            "data": {
+              "Année": "2008",
+              "Source": " Mandats",
+              " Montant ": " 26,339.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2008/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "38297.60",
+            "label3": "/2008/Prog. Europ./38297.60",
+            "data": {
+              "Année": "2008",
+              "Source": " Prog. Europ.",
+              " Montant ": " 38,297.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2008/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "5890.70",
+            "label3": "/2008/Sect. Public./5890.70",
+            "data": {
+              "Année": "2008",
+              "Source": " Sect. Public.",
+              " Montant ": " 5,890.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2008/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "548730.40",
+            "label3": "/2008/Budget Conf./548730.40",
+            "data": {
+              "Année": "2008",
+              "Source": "Budget Conf.",
+              " Montant ": " 548,730.4 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2009",
+    "label1": "/2009",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2009/Autres",
+        "Amount": [
+          {
+            "amount": "25535.40",
+            "label3": "/2009/Autres/25535.40",
+            "data": {
+              "Année": "2009",
+              "Source": " Autres",
+              " Montant ": " 25,535.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2009/CTI",
+        "Amount": [
+          {
+            "amount": "15278.80",
+            "label3": "/2009/CTI/15278.80",
+            "data": {
+              "Année": "2009",
+              "Source": " CTI",
+              " Montant ": " 15,278.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2009/FNS",
+        "Amount": [
+          {
+            "amount": "56029.80",
+            "label3": "/2009/FNS/56029.80",
+            "data": {
+              "Année": "2009",
+              "Source": " FNS",
+              " Montant ": " 56,029.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2009/Mandats",
+        "Amount": [
+          {
+            "amount": "46798.80",
+            "label3": "/2009/Mandats/46798.80",
+            "data": {
+              "Année": "2009",
+              "Source": " Mandats",
+              " Montant ": " 46,798.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2009/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "42020.60",
+            "label3": "/2009/Prog. Europ./42020.60",
+            "data": {
+              "Année": "2009",
+              "Source": " Prog. Europ.",
+              " Montant ": " 42,020.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2009/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "8052.30",
+            "label3": "/2009/Sect. Public./8052.30",
+            "data": {
+              "Année": "2009",
+              "Source": " Sect. Public.",
+              " Montant ": " 8,052.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2009/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "547687.90",
+            "label3": "/2009/Budget Conf./547687.90",
+            "data": {
+              "Année": "2009",
+              "Source": "Budget Conf.",
+              " Montant ": " 547,687.9 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2010",
+    "label1": "/2010",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2010/Autres",
+        "Amount": [
+          {
+            "amount": "18808.60",
+            "label3": "/2010/Autres/18808.60",
+            "data": {
+              "Année": "2010",
+              "Source": " Autres",
+              " Montant ": " 18,808.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2010/CTI",
+        "Amount": [
+          {
+            "amount": "14319.90",
+            "label3": "/2010/CTI/14319.90",
+            "data": {
+              "Année": "2010",
+              "Source": " CTI",
+              " Montant ": " 14,319.9 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2010/FNS",
+        "Amount": [
+          {
+            "amount": "66342.30",
+            "label3": "/2010/FNS/66342.30",
+            "data": {
+              "Année": "2010",
+              "Source": " FNS",
+              " Montant ": " 66,342.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2010/Mandats",
+        "Amount": [
+          {
+            "amount": "49430.60",
+            "label3": "/2010/Mandats/49430.60",
+            "data": {
+              "Année": "2010",
+              "Source": " Mandats",
+              " Montant ": " 49,430.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2010/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "45929.80",
+            "label3": "/2010/Prog. Europ./45929.80",
+            "data": {
+              "Année": "2010",
+              "Source": " Prog. Europ.",
+              " Montant ": " 45,929.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2010/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "10460.20",
+            "label3": "/2010/Sect. Public./10460.20",
+            "data": {
+              "Année": "2010",
+              "Source": " Sect. Public.",
+              " Montant ": " 10,460.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2010/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "529988.40",
+            "label3": "/2010/Budget Conf./529988.40",
+            "data": {
+              "Année": "2010",
+              "Source": "Budget Conf.",
+              " Montant ": " 529,988.4 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2011",
+    "label1": "/2011",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2011/Autres",
+        "Amount": [
+          {
+            "amount": "21146.90",
+            "label3": "/2011/Autres/21146.90",
+            "data": {
+              "Année": "2011",
+              "Source": " Autres",
+              " Montant ": " 21,146.9 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2011/CTI",
+        "Amount": [
+          {
+            "amount": "10584.30",
+            "label3": "/2011/CTI/10584.30",
+            "data": {
+              "Année": "2011",
+              "Source": " CTI",
+              " Montant ": " 10,584.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2011/FNS",
+        "Amount": [
+          {
+            "amount": "77011.60",
+            "label3": "/2011/FNS/77011.60",
+            "data": {
+              "Année": "2011",
+              "Source": " FNS",
+              " Montant ": " 77,011.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2011/Mandats",
+        "Amount": [
+          {
+            "amount": "51109.80",
+            "label3": "/2011/Mandats/51109.80",
+            "data": {
+              "Année": "2011",
+              "Source": " Mandats",
+              " Montant ": " 51,109.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2011/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "48408.00",
+            "label3": "/2011/Prog. Europ./48408.00",
+            "data": {
+              "Année": "2011",
+              "Source": " Prog. Europ.",
+              " Montant ": " 48,408.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2011/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "10897.10",
+            "label3": "/2011/Sect. Public./10897.10",
+            "data": {
+              "Année": "2011",
+              "Source": " Sect. Public.",
+              " Montant ": " 10,897.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2011/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "570365.10",
+            "label3": "/2011/Budget Conf./570365.10",
+            "data": {
+              "Année": "2011",
+              "Source": "Budget Conf.",
+              " Montant ": " 570,365.1 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2012",
+    "label1": "/2012",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2012/Autres",
+        "Amount": [
+          {
+            "amount": "24648.10",
+            "label3": "/2012/Autres/24648.10",
+            "data": {
+              "Année": "2012",
+              "Source": " Autres",
+              " Montant ": " 24,648.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2012/CTI",
+        "Amount": [
+          {
+            "amount": "14314.00",
+            "label3": "/2012/CTI/14314.00",
+            "data": {
+              "Année": "2012",
+              "Source": " CTI",
+              " Montant ": " 14,314.0 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2012/FNS",
+        "Amount": [
+          {
+            "amount": "77939.30",
+            "label3": "/2012/FNS/77939.30",
+            "data": {
+              "Année": "2012",
+              "Source": " FNS",
+              " Montant ": " 77,939.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2012/Mandats",
+        "Amount": [
+          {
+            "amount": "49213.80",
+            "label3": "/2012/Mandats/49213.80",
+            "data": {
+              "Année": "2012",
+              "Source": " Mandats",
+              " Montant ": " 49,213.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2012/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "50654.40",
+            "label3": "/2012/Prog. Europ./50654.40",
+            "data": {
+              "Année": "2012",
+              "Source": " Prog. Europ.",
+              " Montant ": " 50,654.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2012/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "11591.30",
+            "label3": "/2012/Sect. Public./11591.30",
+            "data": {
+              "Année": "2012",
+              "Source": " Sect. Public.",
+              " Montant ": " 11,591.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2012/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "575074.90",
+            "label3": "/2012/Budget Conf./575074.90",
+            "data": {
+              "Année": "2012",
+              "Source": "Budget Conf.",
+              " Montant ": " 575,074.9 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2013",
+    "label1": "/2013",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2013/Autres",
+        "Amount": [
+          {
+            "amount": "25959.60",
+            "label3": "/2013/Autres/25959.60",
+            "data": {
+              "Année": "2013",
+              "Source": " Autres",
+              " Montant ": " 25,959.6 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2013/CTI",
+        "Amount": [
+          {
+            "amount": "17065.20",
+            "label3": "/2013/CTI/17065.20",
+            "data": {
+              "Année": "2013",
+              "Source": " CTI",
+              " Montant ": " 17,065.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2013/FNS",
+        "Amount": [
+          {
+            "amount": "76302.70",
+            "label3": "/2013/FNS/76302.70",
+            "data": {
+              "Année": "2013",
+              "Source": " FNS",
+              " Montant ": " 76,302.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2013/Mandats",
+        "Amount": [
+          {
+            "amount": "47254.50",
+            "label3": "/2013/Mandats/47254.50",
+            "data": {
+              "Année": "2013",
+              "Source": " Mandats",
+              " Montant ": " 47,254.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2013/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "54473.50",
+            "label3": "/2013/Prog. Europ./54473.50",
+            "data": {
+              "Année": "2013",
+              "Source": " Prog. Europ.",
+              " Montant ": " 54,473.5 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2013/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "10176.20",
+            "label3": "/2013/Sect. Public./10176.20",
+            "data": {
+              "Année": "2013",
+              "Source": " Sect. Public.",
+              " Montant ": " 10,176.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2013/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "628154.80",
+            "label3": "/2013/Budget Conf./628154.80",
+            "data": {
+              "Année": "2013",
+              "Source": "Budget Conf.",
+              " Montant ": " 628,154.8 "
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Year": "2014",
+    "label1": "/2014",
+    "Sources": [
+      {
+        "source": "Autres",
+        "label2": "/2014/Autres",
+        "Amount": [
+          {
+            "amount": "29578.10",
+            "label3": "/2014/Autres/29578.10",
+            "data": {
+              "Année": "2014",
+              "Source": " Autres",
+              " Montant ": " 29,578.1 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "CTI",
+        "label2": "/2014/CTI",
+        "Amount": [
+          {
+            "amount": "16240.30",
+            "label3": "/2014/CTI/16240.30",
+            "data": {
+              "Année": "2014",
+              "Source": " CTI",
+              " Montant ": " 16,240.3 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "FNS",
+        "label2": "/2014/FNS",
+        "Amount": [
+          {
+            "amount": "74949.70",
+            "label3": "/2014/FNS/74949.70",
+            "data": {
+              "Année": "2014",
+              "Source": " FNS",
+              " Montant ": " 74,949.7 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Mandats",
+        "label2": "/2014/Mandats",
+        "Amount": [
+          {
+            "amount": "60241.40",
+            "label3": "/2014/Mandats/60241.40",
+            "data": {
+              "Année": "2014",
+              "Source": " Mandats",
+              " Montant ": " 60,241.4 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Prog. Europ.",
+        "label2": "/2014/Prog. Europ.",
+        "Amount": [
+          {
+            "amount": "57619.20",
+            "label3": "/2014/Prog. Europ./57619.20",
+            "data": {
+              "Année": "2014",
+              "Source": " Prog. Europ.",
+              " Montant ": " 57,619.2 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Sect. Public.",
+        "label2": "/2014/Sect. Public.",
+        "Amount": [
+          {
+            "amount": "12293.80",
+            "label3": "/2014/Sect. Public./12293.80",
+            "data": {
+              "Année": "2014",
+              "Source": " Sect. Public.",
+              " Montant ": " 12,293.8 "
+            }
+          }
+        ]
+      },
+      {
+        "source": "Budget Conf.",
+        "label2": "/2014/Budget Conf.",
+        "Amount": [
+          {
+            "amount": "644722.40",
+            "label3": "/2014/Budget Conf./644722.40",
+            "data": {
+              "Année": "2014",
+              "Source": "Budget Conf.",
+              " Montant ": " 644,722.4 "
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

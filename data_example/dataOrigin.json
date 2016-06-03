@@ -1,0 +1,2168 @@
+[
+  {
+    "Year": "1982",
+    "label1": "/1982",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1982/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1982",
+          "CH": "127",
+          "Europe": "67",
+          "Asie": "18",
+          "Amér.": "8",
+          "Afrique": "33",
+          "Océan.": "1",
+          "Total": "254"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1982/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1982",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1982/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1982",
+          "CH": "1570",
+          "Europe": "405",
+          "Asie": "105",
+          "Amér.": "61",
+          "Afrique": "166",
+          "Océan.": "1",
+          "Total": "2308"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1982/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1982",
+          "CH": "1443",
+          "Europe": "338",
+          "Asie": "87",
+          "Amér.": "53",
+          "Afrique": "133",
+          "Océan.": "0",
+          "Total": "2054"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1983",
+    "label1": "/1983",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1983/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1983",
+          "CH": "126",
+          "Europe": "68",
+          "Asie": "20",
+          "Amér.": "10",
+          "Afrique": "30",
+          "Océan.": "0",
+          "Total": "254"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1983/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1983",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1983/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1983",
+          "CH": "1806",
+          "Europe": "417",
+          "Asie": "110",
+          "Amér.": "58",
+          "Afrique": "142",
+          "Océan.": "0",
+          "Total": "2533"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1983/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1983",
+          "CH": "1680",
+          "Europe": "349",
+          "Asie": "90",
+          "Amér.": "48",
+          "Afrique": "112",
+          "Océan.": "0",
+          "Total": "2279"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1984",
+    "label1": "/1984",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1984/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1984",
+          "CH": "137",
+          "Europe": "66",
+          "Asie": "25",
+          "Amér.": "10",
+          "Afrique": "21",
+          "Océan.": "0",
+          "Total": "259"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1984/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1984",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1984/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1984",
+          "CH": "2007",
+          "Europe": "407",
+          "Asie": "118",
+          "Amér.": "55",
+          "Afrique": "133",
+          "Océan.": "0",
+          "Total": "2720"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1984/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1984",
+          "CH": "1870",
+          "Europe": "341",
+          "Asie": "93",
+          "Amér.": "45",
+          "Afrique": "112",
+          "Océan.": "0",
+          "Total": "2461"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1985",
+    "label1": "/1985",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1985/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1985",
+          "CH": "129",
+          "Europe": "65",
+          "Asie": "19",
+          "Amér.": "9",
+          "Afrique": "17",
+          "Océan.": "1",
+          "Total": "240"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1985/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1985",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1985/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1985",
+          "CH": "2174",
+          "Europe": "387",
+          "Asie": "109",
+          "Amér.": "54",
+          "Afrique": "121",
+          "Océan.": "1",
+          "Total": "2846"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1985/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1985",
+          "CH": "2045",
+          "Europe": "322",
+          "Asie": "90",
+          "Amér.": "45",
+          "Afrique": "104",
+          "Océan.": "0",
+          "Total": "2606"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1986",
+    "label1": "/1986",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1986/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1986",
+          "CH": "143",
+          "Europe": "72",
+          "Asie": "24",
+          "Amér.": "12",
+          "Afrique": "21",
+          "Océan.": "1",
+          "Total": "273"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1986/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1986",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1986/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1986",
+          "CH": "2319",
+          "Europe": "386",
+          "Asie": "106",
+          "Amér.": "55",
+          "Afrique": "125",
+          "Océan.": "1",
+          "Total": "2992"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1986/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1986",
+          "CH": "2176",
+          "Europe": "314",
+          "Asie": "82",
+          "Amér.": "43",
+          "Afrique": "104",
+          "Océan.": "0",
+          "Total": "2719"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1987",
+    "label1": "/1987",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1987/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1987",
+          "CH": "157",
+          "Europe": "79",
+          "Asie": "31",
+          "Amér.": "19",
+          "Afrique": "21",
+          "Océan.": "1",
+          "Total": "308"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1987/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1987",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1987/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1987",
+          "CH": "2403",
+          "Europe": "362",
+          "Asie": "94",
+          "Amér.": "64",
+          "Afrique": "137",
+          "Océan.": "1",
+          "Total": "3061"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1987/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1987",
+          "CH": "2246",
+          "Europe": "283",
+          "Asie": "63",
+          "Amér.": "45",
+          "Afrique": "116",
+          "Océan.": "0",
+          "Total": "2753"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1988",
+    "label1": "/1988",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1988/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1988",
+          "CH": "152",
+          "Europe": "82",
+          "Asie": "35",
+          "Amér.": "23",
+          "Afrique": "25",
+          "Océan.": "1",
+          "Total": "318"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1988/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1988",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1988/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1988",
+          "CH": "2443",
+          "Europe": "367",
+          "Asie": "97",
+          "Amér.": "77",
+          "Afrique": "151",
+          "Océan.": "1",
+          "Total": "3136"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1988/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1988",
+          "CH": "2291",
+          "Europe": "285",
+          "Asie": "62",
+          "Amér.": "54",
+          "Afrique": "126",
+          "Océan.": "0",
+          "Total": "2818"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1989",
+    "label1": "/1989",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1989/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1989",
+          "CH": "151",
+          "Europe": "87",
+          "Asie": "34",
+          "Amér.": "27",
+          "Afrique": "24",
+          "Océan.": "1",
+          "Total": "324"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1989/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1989",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1989/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1989",
+          "CH": "2562",
+          "Europe": "382",
+          "Asie": "96",
+          "Amér.": "70",
+          "Afrique": "152",
+          "Océan.": "2",
+          "Total": "3264"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1989/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1989",
+          "CH": "2411",
+          "Europe": "295",
+          "Asie": "62",
+          "Amér.": "43",
+          "Afrique": "128",
+          "Océan.": "1",
+          "Total": "2940"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1990",
+    "label1": "/1990",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1990/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1990",
+          "CH": "160",
+          "Europe": "97",
+          "Asie": "38",
+          "Amér.": "29",
+          "Afrique": "29",
+          "Océan.": "1",
+          "Total": "354"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1990/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1990",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1990/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1990",
+          "CH": "2663",
+          "Europe": "434",
+          "Asie": "92",
+          "Amér.": "88",
+          "Afrique": "153",
+          "Océan.": "1",
+          "Total": "3431"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1990/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1990",
+          "CH": "2503",
+          "Europe": "337",
+          "Asie": "54",
+          "Amér.": "59",
+          "Afrique": "124",
+          "Océan.": "0",
+          "Total": "3077"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1991",
+    "label1": "/1991",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1991/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1991",
+          "CH": "170",
+          "Europe": "88",
+          "Asie": "41",
+          "Amér.": "26",
+          "Afrique": "26",
+          "Océan.": "0",
+          "Total": "351"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1991/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1991",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1991/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1991",
+          "CH": "2834",
+          "Europe": "495",
+          "Asie": "87",
+          "Amér.": "80",
+          "Afrique": "164",
+          "Océan.": "0",
+          "Total": "3660"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1991/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1991",
+          "CH": "2664",
+          "Europe": "407",
+          "Asie": "46",
+          "Amér.": "54",
+          "Afrique": "138",
+          "Océan.": "0",
+          "Total": "3309"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1992",
+    "label1": "/1992",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1992/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1992",
+          "CH": "170",
+          "Europe": "97",
+          "Asie": "48",
+          "Amér.": "25",
+          "Afrique": "25",
+          "Océan.": "1",
+          "Total": "366"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1992/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1992",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1992/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1992",
+          "CH": "2939",
+          "Europe": "537",
+          "Asie": "97",
+          "Amér.": "82",
+          "Afrique": "160",
+          "Océan.": "2",
+          "Total": "3817"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1992/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1992",
+          "CH": "2769",
+          "Europe": "440",
+          "Asie": "49",
+          "Amér.": "57",
+          "Afrique": "135",
+          "Océan.": "1",
+          "Total": "3451"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1993",
+    "label1": "/1993",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1993/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1993",
+          "CH": "194",
+          "Europe": "138",
+          "Asie": "54",
+          "Amér.": "25",
+          "Afrique": "29",
+          "Océan.": "0",
+          "Total": "440"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1993/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1993",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1993/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1993",
+          "CH": "3033",
+          "Europe": "618",
+          "Asie": "106",
+          "Amér.": "92",
+          "Afrique": "173",
+          "Océan.": "1",
+          "Total": "4023"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1993/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1993",
+          "CH": "2839",
+          "Europe": "480",
+          "Asie": "52",
+          "Amér.": "67",
+          "Afrique": "144",
+          "Océan.": "1",
+          "Total": "3583"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1994",
+    "label1": "/1994",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1994/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1994",
+          "CH": "246",
+          "Europe": "173",
+          "Asie": "44",
+          "Amér.": "32",
+          "Afrique": "26",
+          "Océan.": "0",
+          "Total": "521"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1994/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1994",
+          "Total": "0"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1994/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1994",
+          "CH": "3089",
+          "Europe": "643",
+          "Asie": "89",
+          "Amér.": "81",
+          "Afrique": "150",
+          "Océan.": "0",
+          "Total": "4052"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1994/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1994",
+          "CH": "2843",
+          "Europe": "470",
+          "Asie": "45",
+          "Amér.": "49",
+          "Afrique": "124",
+          "Océan.": "0",
+          "Total": "3531"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1995",
+    "label1": "/1995",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1995/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1995",
+          "CH": "269",
+          "Europe": "197",
+          "Asie": "33",
+          "Amér.": "27",
+          "Afrique": "24",
+          "Océan.": "0",
+          "Total": "550"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1995/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1995",
+          "CH": "79",
+          "Europe": "49",
+          "Asie": "5",
+          "Amér.": "20",
+          "Afrique": "18",
+          "Océan.": "0",
+          "Total": "171"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1995/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1995",
+          "CH": "3131",
+          "Europe": "715",
+          "Asie": "76",
+          "Amér.": "111",
+          "Afrique": "169",
+          "Océan.": "0",
+          "Total": "4202"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1995/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1995",
+          "CH": "2783",
+          "Europe": "469",
+          "Asie": "38",
+          "Amér.": "64",
+          "Afrique": "127",
+          "Océan.": "0",
+          "Total": "3481"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1996",
+    "label1": "/1996",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1996/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1996",
+          "CH": "292",
+          "Europe": "212",
+          "Asie": "26",
+          "Amér.": "26",
+          "Afrique": "26",
+          "Océan.": "1",
+          "Total": "583"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1996/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1996",
+          "CH": "67",
+          "Europe": "58",
+          "Asie": "6",
+          "Amér.": "16",
+          "Afrique": "26",
+          "Océan.": "0",
+          "Total": "173"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1996/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1996",
+          "CH": "3098",
+          "Europe": "768",
+          "Asie": "61",
+          "Amér.": "83",
+          "Afrique": "171",
+          "Océan.": "4",
+          "Total": "4185"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1996/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1996",
+          "CH": "2739",
+          "Europe": "498",
+          "Asie": "29",
+          "Amér.": "41",
+          "Afrique": "119",
+          "Océan.": "3",
+          "Total": "3429"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1997",
+    "label1": "/1997",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1997/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1997",
+          "CH": "314",
+          "Europe": "251",
+          "Asie": "22",
+          "Amér.": "30",
+          "Afrique": "26",
+          "Océan.": "1",
+          "Total": "644"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1997/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1997",
+          "CH": "127",
+          "Europe": "72",
+          "Asie": "11",
+          "Amér.": "22",
+          "Afrique": "24",
+          "Océan.": "0",
+          "Total": "256"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1997/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1997",
+          "CH": "3107",
+          "Europe": "836",
+          "Asie": "67",
+          "Amér.": "100",
+          "Afrique": "187",
+          "Océan.": "5",
+          "Total": "4302"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1997/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1997",
+          "CH": "2666",
+          "Europe": "513",
+          "Asie": "34",
+          "Amér.": "48",
+          "Afrique": "137",
+          "Océan.": "4",
+          "Total": "3402"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1998",
+    "label1": "/1998",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1998/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1998",
+          "CH": "340",
+          "Europe": "288",
+          "Asie": "21",
+          "Amér.": "34",
+          "Afrique": "33",
+          "Océan.": "2",
+          "Total": "718"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1998/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1998",
+          "CH": "121",
+          "Europe": "77",
+          "Asie": "13",
+          "Amér.": "17",
+          "Afrique": "20",
+          "Océan.": "0",
+          "Total": "248"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1998/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1998",
+          "CH": "3155",
+          "Europe": "912",
+          "Asie": "72",
+          "Amér.": "101",
+          "Afrique": "173",
+          "Océan.": "5",
+          "Total": "4418"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1998/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1998",
+          "CH": "2694",
+          "Europe": "547",
+          "Asie": "38",
+          "Amér.": "50",
+          "Afrique": "120",
+          "Océan.": "3",
+          "Total": "3452"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "1999",
+    "label1": "/1999",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/1999/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "1999",
+          "CH": "339",
+          "Europe": "295",
+          "Asie": "15",
+          "Amér.": "47",
+          "Afrique": "35",
+          "Océan.": "4",
+          "Total": "735"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/1999/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "1999",
+          "CH": "134",
+          "Europe": "95",
+          "Asie": "20",
+          "Amér.": "19",
+          "Afrique": "31",
+          "Océan.": "0",
+          "Total": "299"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/1999/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "1999",
+          "CH": "3304",
+          "Europe": "958",
+          "Asie": "79",
+          "Amér.": "119",
+          "Afrique": "214",
+          "Océan.": "8",
+          "Total": "4682"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/1999/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "1999",
+          "CH": "2831",
+          "Europe": "568",
+          "Asie": "44",
+          "Amér.": "53",
+          "Afrique": "148",
+          "Océan.": "4",
+          "Total": "3648"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2000",
+    "label1": "/2000",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2000/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2000",
+          "CH": "301",
+          "Europe": "296",
+          "Asie": "26",
+          "Amér.": "44",
+          "Afrique": "31",
+          "Océan.": "4",
+          "Total": "702"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2000/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2000",
+          "CH": "139",
+          "Europe": "85",
+          "Asie": "23",
+          "Amér.": "19",
+          "Afrique": "53",
+          "Océan.": "0",
+          "Total": "319"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2000/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2000",
+          "CH": "3399",
+          "Europe": "1029",
+          "Asie": "102",
+          "Amér.": "114",
+          "Afrique": "248",
+          "Océan.": "7",
+          "Total": "4899"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2000/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2000",
+          "CH": "2959",
+          "Europe": "648",
+          "Asie": "53",
+          "Amér.": "51",
+          "Afrique": "164",
+          "Océan.": "3",
+          "Total": "3878"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2001",
+    "label1": "/2001",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2001/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2001",
+          "CH": "293",
+          "Europe": "378",
+          "Asie": "41",
+          "Amér.": "37",
+          "Afrique": "32",
+          "Océan.": "2",
+          "Total": "783"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2001/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2001",
+          "CH": "107",
+          "Europe": "78",
+          "Asie": "21",
+          "Amér.": "34",
+          "Afrique": "43",
+          "Océan.": "0",
+          "Total": "283"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2001/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2001",
+          "CH": "3490",
+          "Europe": "1152",
+          "Asie": "131",
+          "Amér.": "133",
+          "Afrique": "269",
+          "Océan.": "5",
+          "Total": "5180"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2001/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2001",
+          "CH": "3090",
+          "Europe": "696",
+          "Asie": "69",
+          "Amér.": "62",
+          "Afrique": "194",
+          "Océan.": "3",
+          "Total": "4114"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2002",
+    "label1": "/2002",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2002/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2002",
+          "CH": "328",
+          "Europe": "431",
+          "Asie": "60",
+          "Amér.": "48",
+          "Afrique": "33",
+          "Océan.": "0",
+          "Total": "900"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2002/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2002",
+          "CH": "85",
+          "Europe": "89",
+          "Asie": "25",
+          "Amér.": "24",
+          "Afrique": "51",
+          "Océan.": "1",
+          "Total": "275"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2002/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2002",
+          "CH": "3737",
+          "Europe": "1222",
+          "Asie": "164",
+          "Amér.": "134",
+          "Afrique": "312",
+          "Océan.": "4",
+          "Total": "5573"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2002/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2002",
+          "CH": "3324",
+          "Europe": "702",
+          "Asie": "79",
+          "Amér.": "62",
+          "Afrique": "228",
+          "Océan.": "3",
+          "Total": "4398"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2003",
+    "label1": "/2003",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2003/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2003",
+          "CH": "415",
+          "Europe": "600",
+          "Asie": "105",
+          "Amér.": "58",
+          "Afrique": "50",
+          "Océan.": "2",
+          "Total": "1230"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2003/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2003",
+          "CH": "79",
+          "Europe": "60",
+          "Asie": "19",
+          "Amér.": "29",
+          "Afrique": "40",
+          "Océan.": "0",
+          "Total": "227"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2003/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2003",
+          "CH": "3982",
+          "Europe": "1391",
+          "Asie": "238",
+          "Amér.": "146",
+          "Afrique": "309",
+          "Océan.": "2",
+          "Total": "6068"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2003/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2003",
+          "CH": "3488",
+          "Europe": "731",
+          "Asie": "114",
+          "Amér.": "59",
+          "Afrique": "219",
+          "Océan.": "0",
+          "Total": "4611"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2004",
+    "label1": "/2004",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2004/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2004",
+          "CH": "474",
+          "Europe": "631",
+          "Asie": "142",
+          "Amér.": "70",
+          "Afrique": "54",
+          "Océan.": "3",
+          "Total": "1374"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2004/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2004",
+          "CH": "103",
+          "Europe": "77",
+          "Asie": "21",
+          "Amér.": "41",
+          "Afrique": "46",
+          "Océan.": "2",
+          "Total": "290"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2004/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2004",
+          "CH": "4023",
+          "Europe": "1502",
+          "Asie": "275",
+          "Amér.": "177",
+          "Afrique": "346",
+          "Océan.": "5",
+          "Total": "6328"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2004/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2004",
+          "CH": "3446",
+          "Europe": "794",
+          "Asie": "112",
+          "Amér.": "66",
+          "Afrique": "246",
+          "Océan.": "0",
+          "Total": "4664"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2005",
+    "label1": "/2005",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2005/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2005",
+          "CH": "494",
+          "Europe": "629",
+          "Asie": "169",
+          "Amér.": "72",
+          "Afrique": "53",
+          "Océan.": "5",
+          "Total": "1422"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2005/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2005",
+          "CH": "51",
+          "Europe": "51",
+          "Asie": "18",
+          "Amér.": "22",
+          "Afrique": "17",
+          "Océan.": "0",
+          "Total": "159"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2005/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2005",
+          "CH": "3920",
+          "Europe": "1535",
+          "Asie": "324",
+          "Amér.": "159",
+          "Afrique": "294",
+          "Océan.": "7",
+          "Total": "6239"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2005/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2005",
+          "CH": "3375",
+          "Europe": "855",
+          "Asie": "137",
+          "Amér.": "65",
+          "Afrique": "224",
+          "Océan.": "2",
+          "Total": "4658"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2006",
+    "label1": "/2006",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2006/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2006",
+          "CH": "499",
+          "Europe": "592",
+          "Asie": "188",
+          "Amér.": "82",
+          "Afrique": "40",
+          "Océan.": "6",
+          "Total": "1407"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2006/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2006",
+          "CH": "66",
+          "Europe": "53",
+          "Asie": "22",
+          "Amér.": "26",
+          "Afrique": "22",
+          "Océan.": "3",
+          "Total": "192"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2006/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2006",
+          "CH": "3905",
+          "Europe": "1585",
+          "Asie": "359",
+          "Amér.": "185",
+          "Afrique": "292",
+          "Océan.": "10",
+          "Total": "6336"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2006/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2006",
+          "CH": "3340",
+          "Europe": "940",
+          "Asie": "149",
+          "Amér.": "77",
+          "Afrique": "230",
+          "Océan.": "1",
+          "Total": "4737"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2007",
+    "label1": "/2007",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2007/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2007",
+          "CH": "492",
+          "Europe": "631",
+          "Asie": "226",
+          "Amér.": "87",
+          "Afrique": "32",
+          "Océan.": "4",
+          "Total": "1472"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2007/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2007",
+          "CH": "48",
+          "Europe": "62",
+          "Asie": "39",
+          "Amér.": "16",
+          "Afrique": "16",
+          "Océan.": "1",
+          "Total": "182"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2007/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2007",
+          "CH": "3800",
+          "Europe": "1685",
+          "Asie": "425",
+          "Amér.": "185",
+          "Afrique": "245",
+          "Océan.": "5",
+          "Total": "6345"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2007/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2007",
+          "CH": "3260",
+          "Europe": "992",
+          "Asie": "160",
+          "Amér.": "82",
+          "Afrique": "197",
+          "Océan.": "0",
+          "Total": "4691"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2008",
+    "label1": "/2008",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2008/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2008",
+          "CH": "513",
+          "Europe": "696",
+          "Asie": "282",
+          "Amér.": "102",
+          "Afrique": "28",
+          "Océan.": "3",
+          "Total": "1624"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2008/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2008",
+          "CH": "86",
+          "Europe": "75",
+          "Asie": "40",
+          "Amér.": "33",
+          "Afrique": "24",
+          "Océan.": "1",
+          "Total": "259"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2008/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2008",
+          "CH": "3851",
+          "Europe": "1923",
+          "Asie": "511",
+          "Amér.": "224",
+          "Afrique": "232",
+          "Océan.": "5",
+          "Total": "6746"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2008/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2008",
+          "CH": "3252",
+          "Europe": "1152",
+          "Asie": "189",
+          "Amér.": "89",
+          "Afrique": "180",
+          "Océan.": "1",
+          "Total": "4863"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2009",
+    "label1": "/2009",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2009/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2009",
+          "CH": "519",
+          "Europe": "798",
+          "Asie": "328",
+          "Amér.": "111",
+          "Afrique": "26",
+          "Océan.": "3",
+          "Total": "1785"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2009/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2009",
+          "CH": "66",
+          "Europe": "57",
+          "Asie": "22",
+          "Amér.": "18",
+          "Afrique": "8",
+          "Océan.": "3",
+          "Total": "174"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2009/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2009",
+          "CH": "4058",
+          "Europe": "2136",
+          "Asie": "530",
+          "Amér.": "227",
+          "Afrique": "204",
+          "Océan.": "7",
+          "Total": "7162"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2009/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2009",
+          "CH": "3473",
+          "Europe": "1281",
+          "Asie": "180",
+          "Amér.": "98",
+          "Afrique": "170",
+          "Océan.": "1",
+          "Total": "5203"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2010",
+    "label1": "/2010",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2010/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2010",
+          "CH": "511",
+          "Europe": "895",
+          "Asie": "347",
+          "Amér.": "122",
+          "Afrique": "25",
+          "Océan.": "1",
+          "Total": "1901"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2010/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2010",
+          "CH": "57",
+          "Europe": "77",
+          "Asie": "16",
+          "Amér.": "21",
+          "Afrique": "14",
+          "Océan.": "1",
+          "Total": "186"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2010/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2010",
+          "CH": "4145",
+          "Europe": "2528",
+          "Asie": "589",
+          "Amér.": "254",
+          "Afrique": "244",
+          "Océan.": "2",
+          "Total": "7762"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2010/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2010",
+          "CH": "3577",
+          "Europe": "1556",
+          "Asie": "226",
+          "Amér.": "111",
+          "Afrique": "205",
+          "Océan.": "0",
+          "Total": "5675"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2011",
+    "label1": "/2011",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2011/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2011",
+          "CH": "523",
+          "Europe": "957",
+          "Asie": "351",
+          "Amér.": "121",
+          "Afrique": "22",
+          "Océan.": "1",
+          "Total": "1975"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2011/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2011",
+          "CH": "51",
+          "Europe": "44",
+          "Asie": "20",
+          "Amér.": "23",
+          "Afrique": "2",
+          "Océan.": "2",
+          "Total": "142"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2011/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2011",
+          "CH": "4356",
+          "Europe": "2905",
+          "Asie": "659",
+          "Amér.": "259",
+          "Afrique": "259",
+          "Océan.": "4",
+          "Total": "8442"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2011/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2011",
+          "CH": "3782",
+          "Europe": "1904",
+          "Asie": "288",
+          "Amér.": "115",
+          "Afrique": "235",
+          "Océan.": "1",
+          "Total": "6325"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2012",
+    "label1": "/2012",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2012/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2012",
+          "CH": "522",
+          "Europe": "1016",
+          "Asie": "381",
+          "Amér.": "106",
+          "Afrique": "14",
+          "Océan.": "2",
+          "Total": "2041"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2012/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2012",
+          "CH": "61",
+          "Europe": "44",
+          "Asie": "16",
+          "Amér.": "17",
+          "Afrique": "10",
+          "Océan.": "0",
+          "Total": "148"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2012/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2012",
+          "CH": "4625",
+          "Europe": "3399",
+          "Asie": "725",
+          "Amér.": "258",
+          "Afrique": "294",
+          "Océan.": "5",
+          "Total": "9306"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2012/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2012",
+          "CH": "4042",
+          "Europe": "2339",
+          "Asie": "328",
+          "Amér.": "135",
+          "Afrique": "270",
+          "Océan.": "3",
+          "Total": "7117"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2013",
+    "label1": "/2013",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2013/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2013",
+          "CH": "507",
+          "Europe": "1059",
+          "Asie": "371",
+          "Amér.": "103",
+          "Afrique": "16",
+          "Océan.": "2",
+          "Total": "2058"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2013/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2013",
+          "CH": "63",
+          "Europe": "73",
+          "Asie": "30",
+          "Amér.": "26",
+          "Afrique": "9",
+          "Océan.": "1",
+          "Total": "202"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2013/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2013",
+          "CH": "4739",
+          "Europe": "3820",
+          "Asie": "704",
+          "Amér.": "263",
+          "Afrique": "332",
+          "Océan.": "10",
+          "Total": "9868"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2013/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2013",
+          "CH": "4169",
+          "Europe": "2688",
+          "Asie": "303",
+          "Amér.": "134",
+          "Afrique": "307",
+          "Océan.": "7",
+          "Total": "7608"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2014",
+    "label1": "/2014",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2014/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2014",
+          "CH": "519",
+          "Europe": "1041",
+          "Asie": "347",
+          "Amér.": "110",
+          "Afrique": "13",
+          "Océan.": "2",
+          "Total": "2032"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2014/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2014",
+          "CH": "56",
+          "Europe": "60",
+          "Asie": "17",
+          "Amér.": "27",
+          "Afrique": "7",
+          "Océan.": "4",
+          "Total": "171"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2014/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2014",
+          "CH": "4834",
+          "Europe": "3809",
+          "Asie": "672",
+          "Amér.": "261",
+          "Afrique": "327",
+          "Océan.": "18",
+          "Total": "9921"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2014/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2014",
+          "CH": "4259",
+          "Europe": "2708",
+          "Asie": "308",
+          "Amér.": "124",
+          "Afrique": "307",
+          "Océan.": "12",
+          "Total": "7718"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2015",
+    "label1": "/2015",
+    "Studies": [
+      {
+        "study": "Doctorants",
+        "label2": "/2015/Doctorants",
+        "data": {
+          "Programme de formation": "Doctorants",
+          "Année": "2015",
+          "CH": "542",
+          "Europe": "1070",
+          "Asie": "339",
+          "Amér.": "109",
+          "Afrique": "14",
+          "Océan.": "3",
+          "Total": "2077"
+        }
+      },
+      {
+        "study": "Formation continue MAS",
+        "label2": "/2015/Formation continue MAS",
+        "data": {
+          "Programme de formation": "Formation continue MAS",
+          "Année": "2015",
+          "CH": "63",
+          "Europe": "64",
+          "Asie": "25",
+          "Amér.": "38",
+          "Afrique": "5",
+          "Océan.": "1",
+          "Total": "196"
+        }
+      },
+      {
+        "study": "Total étudiants",
+        "label2": "/2015/Total étudiants",
+        "data": {
+          "Programme de formation": "Total étudiants",
+          "Année": "2015",
+          "CH": "4931",
+          "Europe": "3887",
+          "Asie": "671",
+          "Amér.": "287",
+          "Afrique": "336",
+          "Océan.": "12",
+          "Total": "10124"
+        }
+      },
+      {
+        "study": "Voie diplôme/bachelor+master (sans CMS)",
+        "label2": "/2015/Voie diplôme/bachelor+master (sans CMS)",
+        "data": {
+          "Programme de formation": "Voie diplôme/bachelor+master (sans CMS)",
+          "Année": "2015",
+          "CH": "4326",
+          "Europe": "2753",
+          "Asie": "307",
+          "Amér.": "140",
+          "Afrique": "317",
+          "Océan.": "8",
+          "Total": "7851"
+        }
+      }
+    ]
+  }
+]
